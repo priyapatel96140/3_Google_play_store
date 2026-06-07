@@ -55,3 +55,13 @@ Choose the option below that works best for you:
    ```bash
    pip install pandas numpy notebook
    jupyter notebook
+
+
+## Author
+
+Priya Patel  
+Aspiring Data Analyst  
+Email: patelpriya18217@gmail.com    
+GitHub: [priyapatel96140](https://github.com/priyapatel96140)  
+
+If you like this project, feel free to give it a star!
